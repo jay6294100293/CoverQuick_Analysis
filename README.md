@@ -39,6 +39,9 @@ The research utilized CoverQuick's dataset and employed various methodologies:
 ### Resume Quality Metrics
 - Balanced evaluation considering both positive and negative aspects for assessing resume quality.
 
+## Data Analytics and Django Backend
+The project utilizes data analytics techniques for data analysis and visualization. The analytical data is displayed using Django backend, providing interactive and visually appealing reports and dashboards.
+
 ## Conclusion
 - Recommendations for targeting industries, resume quality expectations, age and experience range, and preferred skills and experience are provided to tailor CoverQuick's services effectively.
 
