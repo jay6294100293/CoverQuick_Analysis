@@ -1,9 +1,8 @@
 # CoverQuick Industry Research Project
 
 ## Demo video 
-<img width="912" alt="imagecoverquick" src="https://github.com/jay6294100293/coverquick_analysis/assets/142631405/5d2219f1-6e70-491e-a3a4-81b6a3017faf">
 
-
+https://github.com/jay6294100293/coverquick_analysis/assets/142631405/bc8cca05-6ec1-48e6-a76e-ef4a2ed06171
 
 ## Overview
 The CoverQuick Industry Research project provides a comprehensive analysis of user demographics, industry preferences, and resume quality metrics. Through the examination of a dataset comprising over 20,000 data points, this report aims to identify the top industries favored by CoverQuick's users, understand the age range and experience level of the target audience, and determine the key skills and experience sought after by these users.
