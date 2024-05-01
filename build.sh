@@ -1,9 +1,12 @@
-# build_files.sh
-which python3.9
-pwd
-cd /usr/local/bin/
+#!/bin/bash
 
-make && make altinstall
-cd /vercel/path0/
-pip install -r requirements.txt
-python3.9 manage.py collectstatic --noinput
+# Build the project
+echo "Building the project..."
+python3.9 -m pip install -r requirements.txt
+
+echo "Make Migration..."
+python3.9 manage.py makemigrations --noinput
+python3.9 manage.py migrate --noinput
+
+echo "Collect Static..."
+python3.9 manage.py collectstatic --noinput --clear
